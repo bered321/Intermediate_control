@@ -1,8 +1,6 @@
 package Model;
 
-import java.io.FileWriter;
-import java.io.IOException;
-import java.util.*;
+
 
 public class Toy {
     private int id;
